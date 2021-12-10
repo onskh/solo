@@ -1,0 +1,19 @@
+body{
+background-image: url("https://thoughtcatalog.com/wp-content/uploads/2020/09/farzad-mohsenvand-TbuescuqMjA-unsplash-2.jpg?resize=1920,1280");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 400px;
+}    
+
+p,li{
+    color:rgb(230, 75, 48);
+}
+img{
+    height: 300px;
+    width: 600px;
+}
